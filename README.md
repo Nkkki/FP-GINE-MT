@@ -1,8 +1,8 @@
-# FP-GINE-MT: Multi-task Molecular Property Prediction Model Based on GINE and Hybrid Fingerprints
+# FP-GINE-MT: Multitask Molecular Property Prediction Model Based on GINE and Hybrid Fingerprints
 
 ## Project Overview
 
-FP-GINE-MT is a multi-task learning model based on Graph Neural Networks (GINE) and hybrid molecular fingerprints for predicting multiple thermodynamic properties of molecules. This model combines the structural perception capabilities of graph neural networks with the feature representation advantages of traditional molecular fingerprints to achieve efficient and accurate multi-task prediction.
+FP-GINE-MT is a multitask learning model based on Graph Neural Networks (GINE) and hybrid molecular fingerprints for predicting multiple thermodynamic properties of molecules. This model combines the structural perception capabilities of graph neural networks with the feature representation advantages of traditional molecular fingerprints to achieve efficient and accurate multi-task prediction.
 
 ### Key Features
 
